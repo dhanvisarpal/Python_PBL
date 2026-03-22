@@ -1,0 +1,1 @@
+This repository contains the initial phase of a sentiment analysis project. It includes dataset collection, cleaning, and preprocessing of product reviews. Text data is prepared by removing noise, converting to lowercase, removing stopwords, and applying stemming to make it suitable for further machine learning tasks.
